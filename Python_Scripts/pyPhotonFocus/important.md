@@ -1,1 +1,1 @@
-unzip the zip file in this folder
+add the PyPhotonFocusC folder here
